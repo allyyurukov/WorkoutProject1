@@ -1,1 +1,2 @@
 # WorkoutProject1
+With this script, you can encrypt text using the reverse cipher. This program reads a text file as input, reverses the contents of the file, and writes the result to a new file. Using the command line, the process is executed, so it is accessible and easy to use for the user. Suppose you have a secret message that goes something like "Hello, how are you?". The reverse cipher turns that message backwards so that it appears like "?uoy era woh ,olleH. This is just a fun way to make text more difficult to read.
